@@ -274,3 +274,4 @@ pnpm dev                                 # api :3000 + web :5173 (proxy /api)
 - ตาราง database ทั้งหมด (รอลูกค้าตอบคำถาม 🔴)
 - Better Auth + session ใน MariaDB, RBAC ด้วย @casl/ability
 - Playwright E2E ของทั้งระบบ, Sentry
+-----test-----
